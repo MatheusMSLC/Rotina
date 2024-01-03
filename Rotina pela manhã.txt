@@ -1,0 +1,17 @@
+Levanto da cama
+Desligo o ar condiconado 
+Vou ate a porta
+Porta esta aberta ? Sim
+    Vou direto ao banheiro
+Não ?
+    Pego na maçaneta
+    Abro a porta
+    Vou a ao banheiro
+Escovo os dentes
+Vou a cozinha
+Tomo um copo café
+Lavo as vesilhas
+Passeio com os cachorros
+Volto para casa 
+Ligo o computador 
+Vejo o que tenho que fazer no dia
